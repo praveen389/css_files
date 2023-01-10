@@ -1,0 +1,16 @@
+:root{
+    --darkblue:rgb(196, 69, 69);
+    --darklight:rgb(51, 228, 63);
+}
+
+body{
+    background-color: var(--darkblue);
+
+}
+
+h2{
+    border-bottom: 3px solid var(--darklight);
+}
+.div1{
+    color:var(--darkblue);
+}
